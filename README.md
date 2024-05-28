@@ -38,7 +38,7 @@ Nossa equipe é formada por:
       </td>
         <td valign="top">
         <a href="http://github.com/typejulio">
-          <img align="center" src="http://github.com/typejulio.png" width="125" style="border-radius: 200px;" />
+          <img align="center" src="http://github.com/julio-dourado.png" width="125" style="border-radius: 200px;" />
           <p align="center"> Júlio César </p>
         </a>
       </td>
